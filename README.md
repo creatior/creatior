@@ -6,7 +6,7 @@
 ## Brief information
 🎓Now I am learning: Ruby, C# WPF, ASP.NET<br>
 🌱Previously learned: Python, C++, C#, C# Windows Forms, VBA etc.<br>
-📫How to contact me: telegram @artyomvor
+📫How to contact me: telegram @artyomvor<br>
 ⚡ Interesting fact: I do music and make music
 
 ## Languages and tools
